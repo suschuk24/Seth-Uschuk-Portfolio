@@ -141,10 +141,7 @@ header nav ul li a:hover {
   border-radius: 5px;
   color: var(--tertiary-color);
 }
-/* Hero image with quote */
-.hero {
-
-}
+/* quote */
 .quote {
   background-image: url("./assets/images/hero-bg.jpg");
   background-size: cover;
