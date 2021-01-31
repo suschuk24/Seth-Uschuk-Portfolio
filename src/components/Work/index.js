@@ -35,11 +35,11 @@ function Work () {
                     </div>
                 </div>
                 {/* <!--Run Buddy--> */}
-                <div className="portfolio-grid-item run-buddy">
+                <div className="portfolio-grid-item living-real">
                     <div className="link">
-                        <a href="https://suschuk24.github.io/run-buddy/" target="_blank">Run Buddy</a>
-                        <p>HTML/CSS</p>
-                        <a href="https://github.com/suschuk24/run-buddy">
+                        <a href="https://living-real.herokuapp.com/" target="_blank">Living Real</a>
+                        <p>React Redux</p>
+                        <a href="https://github.com/P3T2-Realty-Rogues/living-real">
                              <FontAwesomeIcon  icon={["fab", "github-square"]}  size="2x" />
                         </a>
                     </div>
