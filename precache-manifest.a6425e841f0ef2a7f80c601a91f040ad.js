@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90874596cdcd733d7de8908714a6614b",
+    "revision": "66731e06aaf4a2480d3ebdefdabcc31d",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "6fef33eb02717e347d17",
-    "url": "/react-portfolio/static/css/main.61974f44.chunk.css"
+    "revision": "5bd36607b5d34ec38ec0",
+    "url": "/react-portfolio/static/css/main.d9a18ad8.chunk.css"
   },
   {
     "revision": "9cc75b12e48325b94bd6",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/3.cf252f56.chunk.js"
   },
   {
-    "revision": "6fef33eb02717e347d17",
-    "url": "/react-portfolio/static/js/main.e0a3d27c.chunk.js"
+    "revision": "5bd36607b5d34ec38ec0",
+    "url": "/react-portfolio/static/js/main.9bc8c4ac.chunk.js"
   },
   {
     "revision": "a994f1f7ef09025b2a37",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/hero-bg.99688cd5.jpg"
   },
   {
+    "revision": "df48f1257ab3b7f549eb006ac7d8c0fd",
+    "url": "/react-portfolio/static/media/living-real-sample.df48f125.jpg"
+  },
+  {
     "revision": "cc4abab718c6c16ab09811f72c4b3aa2",
     "url": "/react-portfolio/static/media/movie-search-sample.cc4abab7.jpg"
   },
@@ -58,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d457fba1342a01c09f3fe2acbd91f203",
     "url": "/react-portfolio/static/media/resume-2.d457fba1.png"
-  },
-  {
-    "revision": "55bb351f7a84a242ac12571e159850f8",
-    "url": "/react-portfolio/static/media/run-buddy-sample.55bb351f.jpg"
   },
   {
     "revision": "8dbc773d2841a5a8dda5343b4ed348c9",
