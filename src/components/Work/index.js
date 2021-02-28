@@ -54,7 +54,7 @@ function Work () {
                         </a>
                     </div>
                 </div>
-                {/* <!--Weather Forecast Dashboard--> */}
+                {/* <!--Cloud Rolodex--> */}
                 <div className="portfolio-grid-item cloud-rolodex">
                     <div className="link">
                         <a href="https://powerful-ravine-82745.herokuapp.com/" target="_blank">Cloud Rolodex</a>
@@ -74,7 +74,16 @@ function Work () {
                         </a>
                     </div>
                 </div>
-
+                {/* <!--Food Festival--> */}
+                <div className="portfolio-grid-item food-festival">
+                    <div className="link">
+                        <a href="https://suschuk24.github.io/food-festival/index.html" target="_blank">Food Festival</a>
+                        <p>React.js</p>
+                        <a href="https://github.com/suschuk24/food-festival">
+                             <FontAwesomeIcon  icon={["fab", "github-square"]}  size="2x" />
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
