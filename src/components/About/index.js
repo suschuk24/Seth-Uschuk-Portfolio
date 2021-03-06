@@ -14,9 +14,10 @@ function About() {
                 <img src={require("../../assets/images/profile-pic.jpg")} />
                 <div className="my-paragraphs">
                     <p>
-                        After eight successful years of leadership and management throughout various retail industries, I am
-                        looking to use my newly honed skills as a full stack web developer, so I can venture into a field
-                        that I am passionate about and leverage my skills within a community of cutting edge developers.
+                        HI there! My name is Seth Uschuk, thank you for taking the time to visit my site. Please also feel free to explore the links at the bottom of the page to my LinkedIn and GitHub!
+                    </p>
+                    <p>
+                    After 9 successful years of leadership and management throughout various retail subsects, I am ready to put my skills as a full stack web developer to use, so I can venture into a field that I am passionate about, and work within a community of cutting edge developers. 
                     </p>
                 </div>
             </div>

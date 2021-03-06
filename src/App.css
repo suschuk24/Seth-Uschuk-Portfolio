@@ -180,7 +180,7 @@ header nav ul li a:hover {
   box-shadow: 0 0 30px var(--tertiary-color);
   background: var(--secondary-color);
 }
-.my-paragraphs {
+.my-paragraphs, .my-paragraphs p {
   margin: 15px;
   padding: 20px;
 }
@@ -316,11 +316,6 @@ flex: flex-end;
   box-shadow: 0 0 40px var(--tertiary-color);
   
 }
-.link {
-  position: relative;
-  color: var(--tertiary-color);
-  text-align: center;
-}
 
 /* Details Grid ITEMS */
 .details-grid-wrapper {
@@ -388,9 +383,9 @@ flex: flex-end;
   opacity: 1;
   border-radius: 30px;
   transition: 0.9s;
-  animation: bounce 1.2s infinite;
+  /* animation: bounce 0.75s infinite; */
 }
-.portfolio-grid-item:hover .link a, .portfolio-grid-item:hover .link p {
+.portfolio-grid-item:hover a, .portfolio-grid-item:hover p  {
   top: 0;
   transition: 0.6s;
   /* margin: 0 ;
@@ -399,6 +394,15 @@ flex: flex-end;
   opacity: 1;
   /* z-index: 1; */
 }  
+.link {
+  position: relative;
+  color: var(--tertiary-color);
+  text-align: center;
+}
+
+.link:hover {
+  animation: bounce 0.85s infinite;
+}
 .link a {
   text-decoration: none;
   color: var(--tertiary-color);
