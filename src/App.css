@@ -513,6 +513,11 @@ flex: flex-end;
   grid-column: auto ;
   grid-row: auto;
 }
+.grid-container {
+  width: 100%;
+  margin: 20px;
+  display: block;
+}
 }
 /* media styles for 768px max */
 @media screen and (max-width: 768px)  {
@@ -532,8 +537,7 @@ flex: flex-end;
   .grid-container {
     width: 100%;
     margin: 20px;
-    grid-template-columns: repeat(4, 1fr) ;
-    grid-template-rows: repeat(4, 1fr);
+    display: block;
 }
   
   /* media styles for 757px max */

@@ -69,6 +69,14 @@ function Resume() {
                         <FontAwesomeIcon icon={["fas", "rocket"]} size="4x" />
                         <p>Heroku</p>
                     </div>
+                    <div className="grid-item icon">
+                        <FontAwesomeIcon icon={["fas", "sync-alt"]} size="4x" />
+                        <p>Agile Development</p>
+                    </div>
+                    <div className="grid-item icon">
+                        <FontAwesomeIcon icon={["fas", "question"]} size="4x" />
+                        <p>Test Driven Development</p>
+                    </div>
                 </div>
             </div>
             <div className="resume">

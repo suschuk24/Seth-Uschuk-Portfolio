@@ -8,7 +8,7 @@ import ContactForm from './components/Contact'
 import Resume from './components/Resume'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faAws, fab, faGit } from '@fortawesome/free-brands-svg-icons'
-import { faChartArea, faCodeBranch, faRocket, fas, faTerminal } from '@fortawesome/free-solid-svg-icons'
+import { faChartArea, faCodeBranch, faQuestion, faRocket, fas, faSyncAlt, faTerminal } from '@fortawesome/free-solid-svg-icons'
 import { faDatabase } from '@fortawesome/free-solid-svg-icons'
 import { faGithub, faLinkedin, faHtml5, faCss3, faReact, faNode, faJs} from '@fortawesome/free-brands-svg-icons'
 
@@ -16,7 +16,7 @@ import { faGithub, faLinkedin, faHtml5, faCss3, faReact, faNode, faJs} from '@fo
 
 
 library.add(fab, faLinkedin, faGithub, faHtml5, faCss3, faReact, faNode, faJs, faGit, faAws)
-library.add(fas, faDatabase, faChartArea, faCodeBranch, faTerminal, faRocket)
+library.add(fas, faDatabase, faChartArea, faCodeBranch, faTerminal, faRocket, faSyncAlt, faQuestion)
 function App() {
   const [currentPage, setPage] = useState('About Me');
 
