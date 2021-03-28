@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a22e0835f2e3c610f5938cae8e2dd81c",
+    "revision": "297d4afb9ac693f1343e8526fd9908b6",
     "url": "/seth-uschuk/index.html"
   },
   {
-    "revision": "9c5f86b5765aab64e018",
+    "revision": "7e02201f5b1bb269baef",
     "url": "/seth-uschuk/static/css/main.a697d977.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seth-uschuk/static/js/3.30da04ed.chunk.js"
   },
   {
-    "revision": "9c5f86b5765aab64e018",
-    "url": "/seth-uschuk/static/js/main.c194024e.chunk.js"
+    "revision": "7e02201f5b1bb269baef",
+    "url": "/seth-uschuk/static/js/main.f91ea516.chunk.js"
   },
   {
     "revision": "19012a8ba68c6d6cdaa3",
